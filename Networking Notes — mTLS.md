@@ -38,4 +38,4 @@
 Google Cloud Platform uses mTLS to secure connections between its services. [Source](https://www.bastionxp.com/mutual-tls/)
 
 ## Draw a diagram to show the process
-![[mTLS Diagram.png]]
+![mTLS Diagram.png](mTLS Diagram.png)
